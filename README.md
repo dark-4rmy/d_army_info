@@ -19,5 +19,5 @@ To run this tool, you will need:
 1. **Clone the Repository**:
    ```bash
    git clone https://github.com/dark-4rmy/d_army_info.git
-   cd d-army
+   cd d_army_info
    bash install.sh
